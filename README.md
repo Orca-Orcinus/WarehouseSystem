@@ -1,4 +1,4 @@
-# CraneApplication
+# Warehouse Application
 
 A new Flutter project.
 
